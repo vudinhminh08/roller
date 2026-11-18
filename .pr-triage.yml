@@ -1,0 +1,5 @@
+# Cấu hình PR Triage cho đợt thử D4 (cấu hình đã khóa eval-freeze-1: hiển thị C)
+version: 1
+mode: comment
+display: C
+secrets: false
