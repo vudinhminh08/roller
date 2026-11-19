@@ -2,4 +2,5 @@
 version: 1
 mode: comment
 display: C
-secrets: false
+secrets:
+  enabled: false
